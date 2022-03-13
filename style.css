@@ -37,6 +37,7 @@ body {
 .box {
     display: flex;
     border-radius: 1rem;
+    transform: scale(1.2);
 }
 
 .stpic{
