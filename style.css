@@ -155,7 +155,7 @@ p {
         flex-direction: column-reverse;
         justify-content: center;
         margin: 4rem;
-        
+        transform: scale(1);
     }   
 
     section {
