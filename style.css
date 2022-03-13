@@ -150,7 +150,7 @@ p {
     letter-spacing: 1px;
 }
 
-@media all and (max-width:560px) {
+@media all and (max-width:720px) {
     .box {
         flex-direction: column-reverse;
         justify-content: center;
@@ -224,3 +224,8 @@ p {
     }
 }
 
+@media all and (max-width:991px) {
+    .box {
+        transform: scale(1);
+    } 
+}  
